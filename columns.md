@@ -1,0 +1,3 @@
+| Regular Column | Long Column |
+| -------------- | ----------- |
+| Small amount | So much stuff that it makes it so that I have to scroll which is really bad for quick readability. |
